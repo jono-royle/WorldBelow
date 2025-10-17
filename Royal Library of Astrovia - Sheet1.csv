@@ -1,58 +1,240 @@
 Category,Subcategory,Title ,Text,IsRestricted
-History,Antebelluvian ,Creation,"""In the beginning, the sky deities Vektron, Oqular and Scriveen (the stars, the sun and the moon) created the world, and Oqular and Scriveen created the sun and moon elves and the metallic and chromatic dragons.
-At some point the elves lost their immortality - the Elvenfall - the sun elf myths blame the moon elves and vice versa.
-The sky deities wanted to change the world to make it suitable for the now mortal elves. Oqular created the goddess Falstriss, who created humans and dwarves and taught mortals invention. Scriveen created the god Heonn, who created halflings and treefolk and taught mortals cooperation. Vektron created the goddess Arkvile, who created orcs and goblins and would leave the mortal plane to shepherd the souls of passed mortals.
-Falstriss and Heonn fell in love, and had three children Maween, Jaharas and Driselle, the demigods. Arkvile grew jealous of their love and their adoration by the mortals, and unleashed her armies of undead and demon servants on the mortals. They tore the world apart and captured Heonn. Falstriss was forced to invent war to win back her husband, and the mortals were marshalled into an army to fight back in the First War…
-test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes test tests ttes """,
-History,Antebelluvian ,Giants,test text,
-History,Antebelluvian ,Elvenfall 2 versions,test text,
-History,Antebelluvian ,World gods,test text,
-History,Antebelluvian ,Demigods,test text,
-History,Antebelluvian ,Starfall,test text,
-History,Antebelluvian ,Arkvile rebellion,test text,
-History,Antebelluvian ,Creation of war,test text,
-History,Antebelluvian ,Tales from the war,test text,
-History,Antebelluvian ,End of war,test text,
-History,Antebelluvian ,New afterlives and devils,test text,
-History,Postbelluvian,Giant Awakening,test text,
-History,Postbelluvian,Defeat of lich,test text,
-History,Postbelluvian,Formation of the drakewardens,test text,
-Law,Astrovian,Laws of Astrovia,test text,
-Law,Astrovian,The Dawn Crusade,test text,
-Law,International,Treaties with Khatany,test text,
-Magic,Divine,Cleric domains,test text,
-Magic,Divine,The Power of Threes,test text,
-Magic,Divine,Druidic Circles,test text,
-Magic,Divine,Oaths of the Paladins,test text,
-Magic,Divine,Destroying Undead,test text,
-Magic,Divine,Giant Runes,test text,
-Magic,Arcane,Dangers of Arcana,test text,
-Magic,Arcane,Maween's Consortium,test text,
-Nature,Fauna,Beasts of Astrovia,test text,
-Nature,Fauna,"Beasts, birds and fish: a compendium",test text,
-Nature,Flora,Taxonomy of plants,test text,
-Nature,Flora,Trees of the world,test text,
-Nature,Monstrosities,Monstrous footsteps,test text,
-Religion,Vektron,Vektrons designs,test text,
-Religion,Oqular,All seeing Sun,test text,
-Religion,Scriveen,Lunar cycle worship,test text,
-Religion,Falstriss,Prayer through creation,test text,
-Religion,Heonn,Family rituals,test text,
-Religion,Maween,Scholarly articles,test text,
-Religion,Driselle,Tales from the adventures of Hero,test text,
-Religion,Jaharas,Piracy,test text,
-Geography,Astrovia,Starfall,test text,
-Geography,Astrovia,Maps of Astrovia,test text,
-Geography,Eastern Continent,Undelia,test text,
-Geography,Eastern Continent,Khatany,test text,
-Geography,World,Inzanzinar,test text,
-Geneology,,Nobles of Astrovia,test text,
-Philosophy,,The Grand Design,test text,
-Restricted,Scrolls,Divine Scrolls,test text,Yes
-Restricted,Scrolls,Locked box,locked,Yes
-Restricted,Starfall,Record of Summits,test text,Yes
-Restricted,Starfall,The Royal Treasury,test text,Yes
-Restricted,Starfall,Details of the tower,test text,Yes
-Restricted,Dangerous,A journey through the nine hells by Abernath Vanquess,test text,Yes
-Restricted,Dangerous,"Death cults, a history by Redacted",test text,Yes
-Restricted,Arcana,Spellbooks,test text,Yes
+History,Antebelluvian ,Creation Myths,"""This book collects a variety of creation myths
+'Vektron, the Stars, Oqular, the Sun and Scriveen, the Moon, looked down from the sky and created the world below
+Oqular, the eye of truth, created the shining Metallic Dragons and the Sun Elves in their great cities
+Scriveen, the wolf’s howl, created the wild Chromatic Dragons and the Moon Elves in their nomadic tribes
+Vektron, the hand that guides the stars, saw that this was good, and set the turning wheels of fate into motion'""",
+History,Antebelluvian ,Stars And Gems: The Myths,"""This book deals with the mystery of Star Elves and Gem Dragons
+'It is well known that triads are powerful - there are three sets of three Deities and this pattern extends throughout the world. So why then, are there only two kinds of elves, and two kinds of dragons? Oqular created the Metallic Dragons and the Sun Elves. Scriveen created the Chromatic Dragons and the Moon Elves. There are various myths and legends of beings created by the third Deity of the Sky Above - Children of Vektron, Gem Dragons, with scales like shining crystals, and Star Elves, with skin like the night sky and hair shining with starlight'
+The book goes on to collect a variety of these myths but ends with the conclusion that Vektron is too perfect to create something that would then disappear into legend - so Vektron must have been too far above to create living creatures""",
+History,Antebelluvian ,Gigantogol,"""This book gives a summary of giant lore and how the Sky Deities used Giants to shape the world below
+'Scriveen created Hill Giants to shape the Lands
+Oqular created Stone Giants to carve the Mountains
+Scriveen created Frost Giants to unfurl the Glaciers
+Oqular created Fire Giants to erupt the Volcanoes
+Scriveen created Cloud Giants to burst the Rains
+Oqular created Storm Giants to howl the Winds'
+The book goes into great detail concerning the Giants role in the shaping of the world and how they were sealed away when they were no longer needed
+For more info see Postbelluvian History""
+",
+History,Antebelluvian ,Epics of the Elvenfall - Collected by Folduin Aehice,"""(Elvish)
+This book contains a collection of Moon Elf poems detailing how the Sun Elves are to blame for the Elvenfall - when the Elves lost their immortality
+'The walls of their city a cage
+The Wolf's Howl did rage'""
+",
+History,Antebelluvian ,Ballads of the Elvenfall - Collected by Iakhalathar For'whinwhey,"""(Elvish)
+This book contains a collection of Sun Elf poems detailing how the Moon Elves are to blame for the Elvenfall - when the Elves lost their immortality
+'The artistry of enlightenment, the edification of enligtenment forsooth
+Were ever mocked by unkempt wilderness beneath the Eye of Truth'""
+",
+History,Antebelluvian ,Gods of the World Below,"""A series of books and scrolls detailing the creation of the Worldly Gods - after the Elvenfall the Deities of the Sky realised that the World Below was not suitable for mortals and would need to be changed
+'Oqular created Falstriss, Goddess of Invention, Mother of the Humans and Dwarves. She would teach mortals how to progress and strive.
+Scriveen created Heonn, God of Family, Father of the Halflings and Treefolk. He would teach mortals how to live together and farm the land.
+Vektron created Arkvile, Goddess of Death, Mother of the Orcs and Goblins. She would leave the mortal realm, and shepherd the mortal souls once their time had come'
+Some of the books downplay Vektrons involvement in Arkvile - implying that she was created by all three Sky Deities
+For more info see the Religion section""",
+History,Antebelluvian ,The Demigods,"""A series of books and scrolls detailing the Union of Heonn - God of Family - with Falstriss - Goddess of Invention - and the birth of their three children the Demigods
+'Maween the Scholar, who spent her time with the most learned of mortals, ever researching
+Jaharas the Pirate Lord, who spent his time with the bravest of mortals, ever adventuring
+Driselle the Shadow Thief, who spent her time with the most cunning of mortals, ever scheming'
+For more info see the Religion section""",
+History,Antebelluvian ,Starfall,"""Scrolls detailing the star that fell to earth, and the great tower built in the crater, becoming a meeting place for the Gods who walk the earth, Demigods and mortals""",
+History,Antebelluvian ,Arkvile's Rebellion and the First War,"""Details on how Arkvile became jealous of Heonn and Falstriss in the Mortal world
+'And so the gates to the underworld were flung open and Arkvile's servants were unleashed. Legions of marauding demons and hordes of savage undead set upon the mortal plane. 
+The world below was unprepared, and gentle Heonn was captured as his farms burned
+With a heavy heart, Falstriss approached her Forge
+She knew there was only one invention that could stop Arkvile's forces and rescue her beloved
+But she feared that the World would never be the same
+With tears dripping onto the hot metals
+Falstriss invented War'
+
+
+",
+History,Antebelluvian ,Tales from the First War,"""Many works deal with tales of the First War
+How the elvish hero Folovar Q'avalish dueled a Demon Lord on the heights of the tallest mountain in the world
+Jaharas the Pirate Lords many desperate battles aboard his ship, The Dragons Pride
+The tragic loss of Elediun Fields""
+",
+History,Antebelluvian ,The Forces of the First War,"""There are books and scrolls detailing the mortal forces in the First War
+Falstriss leading armies of mortals wielding great weapons - The Osilla Arms - crafted by her hands
+Jaharas and his great fleet of ships
+The clever mortal tactician Ohliphiant and the plans he concocted with Maween and Driselle
+Most of the references to Arkviles forces are more generic, referring to Legions of Undead and Demon generals
+One reference to the Demon generals mentions the Tridavar weapons:
+The Hangman's Hand wielded by Zulgrush the unrelenting, who raised vast armies of undead
+The Soul Cage wielded by Krazyth the mutilator, who created monstrous abyssal beasts
+The Bone Maw wielded by Buulplox the soul eater, who defeated some of the mortals greatest heroes
+For more info see Restricted""
+",
+History,Antebelluvian ,End of the First War,"""Despite the great heroism of the mortals led by Falstriss, the war seemed unwinnable
+Every mortal that fell became a new undead soldier in the armies of Arkvile
+The deities of the Sky Above had refused to intervene
+So the Demigods sought a new path to victory
+Driselle the Shadow Thief infiltrated the Star Vaults of Vektron and stole the secrets within
+She took these to Maween the Scholar, who studied the secrets of the Stars
+And crafted from them a new power, a power that mortals could wield
+This was the dawn of Arcane magic
+Maween created the Council of the Nine Mages to control this power
+And Jaharas the Pirate Lord sailed a great fleet on the wind of the Elemental Storm they created
+This overwhelming force was enough to destroy the Undead Legions and force the Demons back to the Underworld""",
+History,Antebelluvian ,Creation of the Eight Heavens and the Nine Hells,"""After Arkviles forces were defeated in the First War, the gods knew that if she was left as the only keeper of mortal souls which had passed, she would eventually have enough to create a new army of the undead. Each of the gods and demigods created their own afterlife, and after death each mortal soul is judged and sent to the appropriate one. Only a mortal soul which has failed to please the 8 other gods would go to the underworld.
+But given enough time even these souls would amount to an army. So the gods (or according to a minority of the documents here, just Vektron) created the nine hells and the infernal legions of the Devils. The devils would fight Arkviles demons for every soul that landed in the underworld in the unending Blood War. The gods knew that devils must be as evil and ferocious as the demons to fight them, and so gave them a weakness to star-metal (silver) so they could be defeated by mortals.""",
+History,Postbelluvian,The Necromancer King,"""An epic of the rise of the Necromancer King, the first mortal to use Arcane magic to create undead, and his eventual defeat at the hands of the hero Leonhir
+For more info see Religion""
+",
+History,Postbelluvian,Awakening of the Giants,"""'To defeat the Necromancer King, the great hero Leonhir needed a mighty weapon
+He found the Lost Tomb of the Giants, where they had slumbered ever since the Deities of the Sky Above used them to create the World Below
+Stealing through their ancient halls, he climbed the throne of the Storm Giant King
+And stole his belt knife - in Leonhir's hands this was a mighty greatsword
+Stealthily leaving the underground citadel, Leonhir noticed a still reflecting pool
+And could not resist admiring his reflection as he swung his new sword
+Great bolts of lightning fired from the blade, and thunder shook the cavern
+Leonhir fled with his blade, but the Giants had been awoken'
+Other scrolls here discuss the emerging giants, their battles with dragons and the leadership of the Storm Giants
+For more info see Religion""",
+History,Postbelluvian,Dragonkin,"""Some accounts of the creation of the Dragonborn, humanoid relatives of dragons, after the First War. The texts do not hold any insight into how the Dragonborn came to be.
+There are also some references to a group called the Drakewardens that were formed and the powers they shared by bonding with Purple and Platinum dragons""",
+History,Postbelluvian,The Goblin Uprising,"""Details on the Goblin Uprising that was defeated in Astrovia in 481 AW with the sundering of the goblin tribes""",
+History,Postbelluvian,Oridian Kingdom,"""Some details on the Dwarven kingdom of Oridian, including some Dwarvish letters sent asking for alliance with Starfall promising friendship and offering gifts""",
+History,Postbelluvian,The Great Lycanthrope War,"""Limited historical accounts of the conflict between the Druids of Inzanzinar and the alliance of Rhulac and Nythlora, and the sudden creation of the animal-hybrid humanoid soldiers and the curse of Lycanthropy by the druids. Most of the documents here concern screening ships coming into Astrovia to prevent the curse reaching these shores. There is little information on how the Druids achieved these feats""",
+History,Postbelluvian,The Undhelian Empire,"""Historical accounts of the city states of Undhelia and the rise of the Undhelian Empire that has slowly subsumed them all""",
+History,Postbelluvian,Follivars Rebellion,"""Exhaustive written accounts of King Folivar's Rebellion following Starfall's decision to create a guild of Wizardry""",
+Law,Astrovian,Laws of Astrovia,"""Many dry texts on the laws of Astrovia""",
+Law,Astrovian,The Dawn Crusade,"""Documents explaining the Dawn Crusades powers as a force distinct from the crown""",
+Law,International,Treaties,"""Details on international treaties with Khatany, Nythlora, Unzar and Nanargzund (the latter two have notes explaining that the city states have become part of the Undhelian Empire since the treaties were signed)""",
+Magic,Divine,Domains of the Clerics,"""Details on the divine powers of Clerics, and the domains of the Gods they serve
+Vektron: Order, Twilight
+Oqular: Light, Knowledge
+Scriveen: Nature, Grave
+Heonn: Life, Peace
+Falstriss: Forge, War
+Maween: Arcane
+Driselle: Trickery
+Jaharas: Tempest",
+Magic,Divine,The Power of Threes,"""Many texts referring to the power of threes (or triads) in magic. The gods come in three sets of three, so the number has power.
+The number of material planes, the elemental planes, the kinds of giants etc are all divisible by three
+Many examples are given of magic circles or diagrams that are powerful in threes but weak or unstable with non-triad numbers""",
+Magic,Divine,Druidic Circles,"""Details on the six Druidic Circles and how Druids are organised and gain their powers from Scriveen. Most of the documents here are from secondary sources, researchers writing about Druids. Some of these texts seem to sensationalise the Wildshaping powers of Druids, such as mentions of a single Druid transforming into a swarm of rats, or a Unicorn
+There is a dusty collection of journals written by a moon elf Druid named Faheelwild that mention intense dreams from Scriveen
+'I saw a desolate landscape - I believe a vision of the First War itself. It is clear that Scriveen is warning me'
+The journals chronicle many travels across the land to preserve the natural order, but devolve into incoherent ramblings about a ""great secret"" before ending""",
+Magic,Divine,Oaths of the Paladins,"""Many documents and books about the Paladins of the Dawn Crusaders and their Oaths to Oqular. Also some scattered references to Paladins who swear their Oaths to other Gods, or even accounts of Paladins gaining Divine power when swearing Oaths to personal ideals""",
+Magic,Divine,Destroying Undead,"""A vareity of texts on using Divine Magic to destroy Undead such as
+Vanquishing the Unholy by High Priest Bartholomew Dourlull
+Exorcism for Beginners by H. Buttons""",
+Magic,Divine,Giant Runes,"""A small selection of stone tablets with Giant runes carved into them, and some Dwarvish scrolls discussing the magical potential of these runes""",
+Magic,Planar,Elemental Planes,"""Information on the elemental planes, of which twelve exist 
+Fire
+Water
+Air
+Earth
+Steam (between Fire and Water)
+Smoke (between Fire and Air)
+Magma (between Fire and Earth)
+Ice (between Water and Air)
+Mud (between Water and Earth)
+Dust (between Air and Earth)
+Maelstrom
+Tranquility""",
+Magic,Planar,Material Planes,"""Texts on the material planes, most notably a book called Far Traveller by an unknown author that claims to have travelled all three
+'The prime material plane is where you most likely stand now dear reader - a world of elves, humans, dwarves and halflings
+But there are two more material planes, all three overlapping reflections of each other
+The Feywild, with its wild forests and dazzling cities, home to wild Winter Court and the refined Summer Court of the Fae
+And the Shadowfell, a dark twisted landscape of monstrous nightmare creatures'
+The book features many supposed accounts of journeys to the other two realms, and ends with a startling conclusion
+'The two most impactful events in history were the Elvenfall and the First War. I believe these events created the other two planes
+The Feywild is our world if the Elvenfall never happened - the Summer and Winter Courts are the immortal Sun and Moon elves
+And the Shadowfell? It is our world if mortals had lost the First War - a desolate, blasted landscape of demons and undeath'""",
+Magic,Arcane,Dangers of Arcana,"""Many texts detailing the dangers of Arcane magic such as
+Signs of Sorcery by Houston Whitt
+Warlocks - a compendium of Evil
+School of Necromancy by S. Keel
+as well as a collection of diaries and eyewitness accounts detailing dangerous Arcane power""",
+Magic,Arcane,Maween's Consortium,"""Some short, modern texts detailing the founding of Maween's Consortium and the rules applying to the wizards guild""",
+Nature,Fauna,Animal Taxonomies,"""Various taxonomies of beasts, birds and fish of Astrovia, and some more sporadic accounts of the rest of the world""",
+Nature,Fauna,Humanoid Taxonomies,"""Detailed listings of the many kinds of humanoids, those created by the gods:
+Moon and Sun Elves, Humans, Dwarves, Halflings, Treefolk, Orcs and Goblinoids
+As well as some scattered notes on those created since the First War
+Dragonborn, Gnomes, Tieflings, Genasi, Gnolls
+And the new animal-humanoid hybrid races created by the Inzanzinar Druids during the Great Lycanthrope War""
+",
+Nature,Fauna,Medical texts,"""A well stocked selection of medical texts, autopsy reports, accounts of illnesses and their treatments, the affects of divine healing. Mostly focused on human anatomy but examples for elves, dwarves, halflings, treefolk etc can be found""",
+Nature,Fauna,Arachnid display,"""Glass cases house many preserved spider webs and the remains of large spiders""",
+Nature,Flora,Taxonomies,"""Botanical taxonomies, as well as detailed reports on farm crops""",
+Nature,Flora,Walking Plants,"""Accounts of sentient plants and plant monsters, including some notes on those created by the Druids of Inzanzinar during the Great Lycanthrope War""",
+Nature,Supernatural,Monstrous footsteps,"""A large, foreboding tome detailing supernatural monstrosities. Most of the text focuses on the dangers posed by these creatures, though there is some confusing technical detail noting the difference between Monstrosities that arose from the will of the Gods and 'abominations' created by Arcane magic such as the Owlbear""",
+Nature,Supernatural,Draconomicon,"""A comprehensive guide to Dragons and Wyverns""",
+Nature,Metallurgy,"Metals, gems and minerals","""Various books containing details ",
+Religion,Vektron,Vektron's Designs,"""Religous texts detailing the elegance of Vektron's designs and comparing an ideal life on the World Below matching the motions of the stars""",
+Religion,Vektron,Future sight by The Sky Seer,"""A definitive guidance on horoscopes, tarot, palm reading and other methods of divining the future""",
+Religion,Vektron,Horoscopes,"""Vast stacks of horoscope predictions""",
+Religion,Vektron,Star charts,"""Weighty tomes in a side room with an Astrolabe, filled with star measurements and notes on constellations""",
+Religion,Oqular,All seeing Sun,"""An exhaustively detailed tome on the tenets of truth and justice important to a follower of Oqular""",
+Religion,Scriveen,Lunar cycle worship,"""Some short, dry texts on the lunar cycles and the proper times to observe Scriveen""",
+Religion,Falstriss,Prayer through creation,"""Some religous pamphlets on the importance of creation and crafting, this section is overwhelmed with technical manuals and information on blacksmithing, woodworking, artificing, mining and military theory""",
+Religion,Heonn,Family rituals,"""Comprehensive accounts of marriage, baptism, funeral and harvest ceremonies""",
+Religion,Maween,Scholarly articles,"""Vast stacks of scrolls and scholarly articles on a wide range of subjects, incuding many focused on mathematics and alchemy""",
+Religion,Driselle,Collection of artists works,"""This section is mostly filled with a poorly organised collection of poems, plays and stories. There is also a large tome focused on tales of the hero Leonhir, which notes that the hero is generally considered to be Driselles son, but many believe him to be Driselle herself in the form of a man""",
+Religion,Jaharas,Collection donated by adventurers,"""This section contains few written books or scrolls, but is instead an assortment of donated treasures and mementos of a variety of adventure seekers. Stuffed heads of manticores other monstrosities are hung from the wall, and cases show a variety of relics with notes of the adventurers who recovered them""",
+Geography,Astrovia,Starfall,"""Details of the city of Starfall and its system of canals""",
+Geography,Astrovia,Maps of Astrovia,"""A variety of maps of Astrovia""",
+Geography,Eastern Continent,Undhelia,"""Collected notes and some incomplete maps of the city states of Undhelia to the West of Astrovia, most pre dating the Undhelian Empire""",
+Geography,Eastern Continent,Khatany,"""Details on the pastoral country of Khatany to the South of Astrovia""",
+Geography,World,Nythlora,"""Sketches and notes on the Sun Elf cities of Nythlora to the North of Astrovia""",
+Geography,World,Rhulac,"""Some scant details on the jungle kingdom of Inzanzinar on the Eastern continent""",
+Geography,World,Inzanzinar,"""Some scant details on the land of Rhulac on the Eastern continent""",
+Genealogy,,Nobles of Khatany,"""Family trees and histories of the nobility of Khatany""",
+Genealogy,,Nobles of Astrovia,"""Family trees and histories of the nobility of Astrovia""",
+Philosophy,,The Grand Design by Parthinomous,"""A famous text discussing how free will is impacted by Vektron's future sight""",
+Restricted,Scrolls,Divine Scrolls,"""A vast stack of Divine Spell Scrolls. The following scrolls can be found here:
+Bless x 3
+Ceremony x 5
+Create or Destroy Water x 2
+Cure Wounds x 3
+Detect Evil and Good
+Detect Magic x 2
+Detect Poison and Disease x 4
+Purify Food and Drink x 3
+Sanctuary x 2
+Augury
+Continual Flame
+Gentle Repose x 2
+Lesser Restoration
+Locate Object
+Zone of Truth
+Clairvoyance
+Magic Circle
+Speak with Dead
+Tongues
+Divination
+Locate Creature""",Yes
+Restricted,Scrolls,Locked Box,"""A locked silver chest, that looks like a single scroll could fit inside""",Yes
+Restricted,Starfall,Record of Summits,"""A list of dates and attendees, with no other information
+105 AW - Aravastor, Bywindel-vas of Nythlora, Kominay of Inzanzinar, Brundil envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
+220 AW - Aravastor, Bywindel-vas of Nythlora, Kominay of Inzanzinar, Thofur envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
+477 AW - Aravastor, Methalwinday of Nythlora, Critirion of Inzanzinar, Thofur envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
+623 AW - Aravastor, Methalwinday of Nythlora, Grodulay envoy of the Storm King, Lord Hyveranox, Aquis of the Courts w/ guest
+781 AW - Aravastor, Drothilusia of Nythlora, Gert envoy of the Storm King, Lord Mulisiphor, Sir Vosted C.o.V
+856 AW - Aravastor, Mundara envoy of the Storm King, Lord Mulisiphor, Sir Dramel C.o.V, Aquis of the Courts""",Yes
+Restricted,Starfall,The Royal Treasury,"""Documents relating to the Royal Bank and Treasury of Astrovia including blueprints""",Yes
+Restricted,Starfall,The Royal Astronomy Tower,"""Details of the tower. Long descriptions of it's many floors, ballrooms, the observatory and telescopes on the upper floors. Exhaustive details on the kitchens, the furnishing's of the many bedrooms, the baths.
+There are also details of the vault below the tower. The vault door is a massive structure made of mithril and silver and gold and cold iron, blessed with divine magic. The vault has 3 wings, with valuable treasures and powerful magical relics housed within. There are notes about how the Adavan family is reponsible for maintaining the vault, and various historical notes of different members of the family stretching back generations. The most recent note reads: 
+After the tragic loss of the Adavan bloodline, we await the King's choice for a successor to manage the vaults. Currently the King is the sole possessor of the knowledge of how to reach the secret second vault below the first, and how to navigate the labyrinth down to the third vault. This knowledge must not be lost, continue to press the King to appoint new Vault Caretakers""",Yes
+Restricted,Occult,A journey through the Nine Hells by Abernath Vanquess,"""This ancient book, bound in a strange leather, claims to be an account of a mortal that somehow travelled the nine hells and returned to tell the tale. The book makes it explicit that Vektron created the Devils and the Hells, and goes into detail about their complex and byzantine political structure, as well as their many organised but depraved tortures of each other and the mortal souls in their grasp. Abernath is treated as a guest of the Archdevils in command of each layer of the hells, though why he is granted this privilege is never explained. The book ends with a sobering reflection that, if it were not for their distraction by the  endless Blood War with the Demons of the Abyss, the Devils would be a terrible force as they schemed to take all the souls of the mortal world""",Yes
+Restricted,Occult,"Death cults, a history by Redacted","""A history of the many attempts to worship Arkvile since the First War. From small orc and goblin cults to larger conspiracies within civilization. The history notes many uses of Arcane necromancy by the cults, but no examples of any Divine power from Arkvile's followers""",Yes
+Restricted,Occult,Demonology,"""A dark black tome. An attempted taxonomy of Demonkind, though the authors note that the Demon hordes of the Abyss are so chaotic as to be difficult to classify. The only constant among the terrifying fiends described within is their mad destructive instinct and desire to burn and destroy mortals. There are some notes on the Demon forces of the First War, including more detailed descriptions of the Tridavar weapons:
+The Hangman's Hand (true name unknown) is described as a long staff with a skeletal, many fingered hand at it's end. It helped create vast numbers of Undead.
+The Soul Cage (true name unknown) is described as a suit of white armour. It helped its wearer create strange Undead abominations from the souls of mortals.
+The Bone Maw (true name unknown) is described as a great scythe. It's abilites are unclear, though it's wielder Buulplox the soul eater was a fearsome fighter
+The section raises several questions the authors could not answer:
+Falstriss is the Goddess of Invention. Yet it seems wielders of her creations, the Osilla Arms, were often defeated in combat by wielders of the Tridavar. How was Arkvile able to craft weapons more powerful than the Goddess of crafting?
+The records only ever mention Demons wielding the Tridavar - did Arkvile ever march into battle with weapons of her own?
+Finally, there are legends that the Tridavar brought together would have unmatched power - so why do the records and legends of the First War never mention the Demon's doing so? Were they simply too chaotic to cooperate?""",Yes
+Restricted,Occult,Spellbooks,"""A small collection of wizards spell books. Some of the covers are blood stained""",Yes
+Restricted,A Small Cabinet,A single piece of parchment,"""A list on ancient parchment
+Siluvians - 221 AW
+Drakewardens - 477 AW
+Phoenix - 625 AW
+Oridian Dwarves - 790 AW
+Blood Rose - 856 AW
+There is a drawing of a spider on the page""",

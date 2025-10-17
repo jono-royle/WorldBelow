@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>The Royal Library of Astrovia</title>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<style>
+html, body { height: 100%; margin: 0; }
+body {
+  background-color: #5a3215; /* fallback */
+  background-image:
+    linear-gradient(rgba(40, 20, 5, 0.7), rgba(40, 20, 5, 0.7)), /* subtle dark overlay */
+    url('https://images.unsplash.com/photo-1472173148041-00294f0814a2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170');
+  background-repeat: repeat;
+  background-size: 300px; /* controls the tile size of the wood texture */
+  background-attachment: fixed;
+  font-family: "Garamond", serif;
+  color: #f4e7c4;
+  text-align: center;
+}
+
+h1,h2 { text-shadow: 2px 2px 4px #000; margin:12px 0; }
+.container { display:flex; flex-direction:column; align-items:center; margin:30px auto; max-width:900px; padding-bottom:60px; }
+
+.shelf {
+  width:85%; min-height:80px; margin:20px 0; border-radius:10px; 
+  color:#f8eac7; font-size:1.3em; display:flex; align-items:center; justify-content:center; 
+  cursor:pointer; text-shadow:1px 1px 2px #000; transition:transform 0.15s ease, background 0.25s ease; 
+  box-shadow:0 6px 18px rgba(0,0,0,0.6);
+  background:
+    linear-gradient(180deg, rgba(120,70,30,0.95), rgba(60,30,10,0.98)),
+    repeating-linear-gradient(90deg,
+      rgba(60,30,10,0.25) 0px,
+      rgba(60,30,10,0.25) 4px,
+      rgba(100,50,20,0.35) 8px,
+      rgba(80,40,15,0.25) 12px
+    ),
+    repeating-linear-gradient(0deg,
+      rgba(80,40,15,0.15) 0px,
+      rgba(100,50,20,0.15) 8px,
+      rgba(60,30,10,0.15) 16px
+    );
+  background-blend-mode: multiply;
+}
+.shelf:hover { transform: scale(1.03); }
+
+.book {
+  position: relative;
+  width:120px;
+  height:200px;
+  margin:15px;
+  border-radius:6px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  padding:8px;
+  cursor:pointer;
+  color: #f4e7c4;
+  font-weight: bold;
+  font-family: "Garamond", serif;
+  box-shadow: inset -4px 0 8px rgba(0,0,0,0.4), inset 2px 0 4px rgba(255,255,255,0.05), 0 6px 18px rgba(0,0,0,0.5);
+  transition: transform 0.18s ease, filter 0.25s ease;
+}
+.book::before,
+.book::after { content:""; position:absolute; top:0; height:100%; width:2px; background: rgba(0,0,0,0.15);}
+.book::before { left:6px; }
+.book::after { left:10px; }
+.book:hover { transform: scale(1.05); filter: brightness(1.15); box-shadow: inset -4px 0 10px rgba(0,0,0,0.5),0 8px 20px rgba(0,0,0,0.6); }
+
+.bookshelf { display:flex; flex-wrap:wrap; justify-content:center; position: relative; margin-bottom:30px; }
+.shelf-line { width:100%; height:4px; background:#8b5a2b; box-shadow:0 2px 6px rgba(0,0,0,0.4); margin-top:10px; }
+
+#overlay { display:none; position:fixed; inset:0; background-color: rgba(0,0,0,0.7); z-index:90; }
+.popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%);
+  background-color: rgba(245,238,217,0.97); color:#3a1f04; padding:24px;
+  border:2px solid #d2b48c; border-radius:10px; width:360px; max-width:92%; max-height:80%;
+  z-index:100; text-align:left; box-shadow:0 10px 30px rgba(0,0,0,0.75);
+  overflow-y:auto;
+  scrollbar-width: thin;
+  scrollbar-color: #8b5a2b #f5eee1;
+}
+.popup h3 { margin-top:0; font-size:1.2em; text-align:center; }
+.close-btn,.back-btn { background:#8b5a2b; border:none; color:white; padding:8px 14px; cursor:pointer; margin:10px; border-radius:6px; }
+.close-btn:hover,.back-btn:hover { background:#a67b4e; }
+.popup::-webkit-scrollbar { width: 10px; }
+.popup::-webkit-scrollbar-track { background: #f5eee1; border-radius:6px; }
+.popup::-webkit-scrollbar-thumb { background-color:#8b5a2b; border-radius:6px; border:2px solid #f5eee1; }
+@media (max-width:480px){ .book{width:100px;height:160px;} .popup{width:90%;} }
+</style>
+</head>
+<body>
+
+<h1>📚 The Royal Library of Astrovia 📚</h1>
+<h2 id="section-title">Loading Library...</h2>
+<div id="content" class="container"></div>
+<div id="overlay" onclick="closePopup()"></div>
+<div id="popup" class="popup" role="dialog" aria-modal="true" aria-labelledby="popup-title">
+  <h3 id="popup-title"></h3>
+  <p id="popup-text"></p>
+  <button class="close-btn" onclick="closePopup()">Close</button>
+</div>
+
+<script>
+let library = {}, currentView = {path:[]};
+const passwordMap = { "Restricted":"VektronIsCool" }; // replace with your password
+
+const csvUrl = "https://raw.githubusercontent.com/jono-royle/WorldBelow/main/Royal%20Library%20of%20Astrovia%20-%20Sheet1.csv";
+
+Papa.parse(csvUrl, {
+  download: true,
+  header: true,
+  skipEmptyLines: true,
+  complete: function(results) {
+    results.data.forEach(r => {
+      const row = {}; for(let k in r){ row[k.trim()] = r[k]; }
+      const cat = row.Category?.trim(), sub = row.Subcategory?.trim(), title = row.Title?.trim(), text = row.Text?.trim();
+      if(!cat || !title) return;
+
+      if(!library[cat]) library[cat] = {isRestricted:false, data:{}};
+      if(row.IsRestricted && row.IsRestricted.trim().toLowerCase() === "yes") library[cat].isRestricted = true;
+
+      const target = sub ? (library[cat].data[sub] = library[cat].data[sub] || []) : (library[cat].data['__books__'] = library[cat].data['__books__'] || []);
+      target.push({title,text});
+    });
+    document.getElementById('section-title').textContent = "Select a Category";
+    renderView();
+  },
+  error: function(err){ console.error(err); document.getElementById('section-title').textContent = "Failed to load library."; }
+});
+
+function renderView(){
+  const content=document.getElementById('content'); const title=document.getElementById('section-title'); content.innerHTML="";
+  if(currentView.path.length===0){
+    title.textContent="Select a Category";
+    for(let cat in library){
+      const div=document.createElement('div'); div.className='shelf'; div.textContent=cat;
+div.onclick = () => {
+  if (library[cat].isRestricted) {
+    const pw = prompt("Enter password for " + cat + ":");
+    if (pw === null) return; // User clicked Cancel, exit silently
+    if (pw !== passwordMap[cat]) {
+      alert("Incorrect password");
+      return;
+    }
+  }
+  currentView.path = [cat];
+  renderView();
+      };
+      content.appendChild(div);
+    }
+    return;
+  }
+
+  const catObj = library[currentView.path[0]].data;
+
+  if(currentView.path.length===1){
+    title.textContent=currentView.path[0];
+    content.appendChild(makeBackButton(()=>{currentView.path=[]; renderView();}));
+    if(catObj['__books__']) renderBooks(catObj['__books__']);
+    else for(let sub in catObj){
+      const div=document.createElement('div'); div.className='shelf'; div.textContent=sub;
+      div.onclick=()=>{ currentView.path=[currentView.path[0],sub]; renderView(); };
+      content.appendChild(div);
+    }
+    return;
+  }
+
+  if(currentView.path.length===2){
+    const books = catObj[currentView.path[1]];
+    title.textContent=`${currentView.path[0]} → ${currentView.path[1]}`;
+    content.appendChild(makeBackButton(()=>{currentView.path=[currentView.path[0]]; renderView();}));
+    renderBooks(books);
+  }
+}
+
+function renderBooks(books){
+  const container = document.getElementById('content');
+  const shelfDiv = document.createElement('div'); shelfDiv.className='bookshelf'; container.appendChild(shelfDiv);
+
+  books.forEach(b=>{
+    const div = document.createElement('div'); div.className='book'; div.textContent=b.title;
+    const hue=Math.floor(Math.random()*30)+20, sat=Math.floor(Math.random()*20)+60, light=Math.floor(Math.random()*15)+30;
+    div.style.background=`linear-gradient(135deg, hsl(${hue},${sat}%,${light}%) 0%, hsl(${hue},${sat-10}%,${light-5}%) 100%)`;
+    div.onclick = ()=>showPopup(b.title,b.text);
+    shelfDiv.appendChild(div);
+  });
+
+  setTimeout(()=>{insertShelfLines(shelfDiv);},50);
+}
+
+function insertShelfLines(shelf){
+  const books = Array.from(shelf.children); let lastTop=null;
+  books.forEach((b,i)=>{
+    const top = b.offsetTop;
+    if(lastTop===null) lastTop = top;
+    if(i===books.length-1 || books[i+1].offsetTop > top){
+      const line=document.createElement('div'); line.className='shelf-line';
+      b.after(line); lastTop=null;
+    }
+  });
+}
+
+function makeBackButton(onclick){ const btn=document.createElement('button'); btn.className='back-btn'; btn.textContent='← Back'; btn.onclick=onclick; return btn; }
+function showPopup(title,text){ document.getElementById('popup-title').textContent=title; document.getElementById('popup-text').innerHTML=text.replace(/\r?\n/g,'<br>'); document.getElementById('overlay').style.display='block'; document.getElementById('popup').style.display='block'; }
+function closePopup(){ document.getElementById('popup').style.display='none'; document.getElementById('overlay').style.display='none'; }
+</script>
+</body>
+</html>
