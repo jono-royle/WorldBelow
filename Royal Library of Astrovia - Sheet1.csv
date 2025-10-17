@@ -164,7 +164,17 @@ Nature,Flora,Taxonomies,"""Botanical taxonomies, as well as detailed reports on 
 Nature,Flora,Walking Plants,"""Accounts of sentient plants and plant monsters, including some notes on those created by the Druids of Inzanzinar during the Great Lycanthrope War""",
 Nature,Supernatural,Monstrous footsteps,"""A large, foreboding tome detailing supernatural monstrosities. Most of the text focuses on the dangers posed by these creatures, though there is some confusing technical detail noting the difference between Monstrosities that arose from the will of the Gods and 'abominations' created by Arcane magic such as the Owlbear""",
 Nature,Supernatural,Draconomicon,"""A comprehensive guide to Dragons and Wyverns""",
-Nature,Metallurgy,"Metals, gems and minerals","""Various books containing details ",
+Nature,Metallurgy,"Metals, gems and minerals","""Various books containing details of minerals and their uses. Of note is the relations of the Deities to various metals:
+
+Vektron - Silver
+Oqular - Gold
+Scriveen - Cold Iron
+Falstriss - Bronze
+Heonn - Ironwood
+Arkvile - Obsidian
+Maween - Copper
+Jaharas - Electrum
+Driselle - Mercury""",
 Religion,Vektron,Vektron's Designs,"""Religous texts detailing the elegance of Vektron's designs and comparing an ideal life on the World Below matching the motions of the stars""",
 Religion,Vektron,Future sight by The Sky Seer,"""A definitive guidance on horoscopes, tarot, palm reading and other methods of divining the future""",
 Religion,Vektron,Horoscopes,"""Vast stacks of horoscope predictions""",
