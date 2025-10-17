@@ -195,6 +195,7 @@ Geography,World,Rhulac,"""Some scant details on the jungle kingdom of Inzanzinar
 Geography,World,Inzanzinar,"""Some scant details on the land of Rhulac on the Eastern continent""",
 Genealogy,,Nobles of Khatany,"""Family trees and histories of the nobility of Khatany""",
 Genealogy,,Nobles of Astrovia,"""Family trees and histories of the nobility of Astrovia""",
+Philosophy,,Philosophy Lectures,"""A collection of scrolls detailing many famous speakers debates and lectures""",
 Philosophy,,The Grand Design by Parthinomous,"""A famous text discussing how free will is impacted by Vektron's future sight""",
 Restricted,Scrolls,Divine Scrolls,"""A vast stack of Divine Spell Scrolls. The following scrolls can be found here:
 Bless x 3
@@ -241,10 +242,11 @@ Falstriss is the Goddess of Invention. Yet it seems wielders of her creations, t
 The records only ever mention Demons wielding the Tridavar - did Arkvile ever march into battle with weapons of her own?
 Finally, there are legends that the Tridavar brought together would have unmatched power - so why do the records and legends of the First War never mention the Demon's doing so? Were they simply too chaotic to cooperate?""",Yes
 Restricted,Occult,Spellbooks,"""A small collection of wizards spell books. Some of the covers are blood stained""",Yes
+Restricted,Occult,Aberrations,"""A collection of papers clumsily bound together. Scrawled notes on 'Mindflayers', 'Beholders' and 'Aboleths'. Devolves into incoherent ramblings about the 'psionic' powers of these Aberrations.""",Yes
 Restricted,A Small Cabinet,A single piece of parchment,"""A list on ancient parchment
 Siluvians - 221 PB 
 Drakewardens - 477 PB 
 Phoenix - 625 PB 
 Oridian Dwarves - 790 PB 
 Blood Rose - 856 PB 
-There is a drawing of a spider on the page""",
+There is a drawing of a spider on the page""",Yes
