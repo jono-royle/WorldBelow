@@ -184,8 +184,8 @@ Religion,Scriveen,Lunar cycle worship,"""Some short, dry texts on the lunar cycl
 Religion,Falstriss,Prayer through creation,"""Some religous pamphlets on the importance of creation and crafting, this section is overwhelmed with technical manuals and information on blacksmithing, woodworking, artificing, mining and military theory""",
 Religion,Heonn,Family rituals,"""Comprehensive accounts of marriage, baptism, funeral and harvest ceremonies""",
 Religion,Maween,Scholarly articles,"""Vast stacks of scrolls and scholarly articles on a wide range of subjects, incuding many focused on mathematics and alchemy""",
-Religion,Driselle,Collection of artists works,"""This section is mostly filled with a poorly organised collection of poems, plays and stories. There is also a large tome focused on tales of the hero Leonhir, which notes that the hero is generally considered to be Driselles son, but many believe him to be Driselle herself in the form of a man""",
-Religion,Jaharas,Collection donated by adventurers,"""This section contains few written books or scrolls, but is instead an assortment of donated treasures and mementos of a variety of adventure seekers. Stuffed heads of manticores other monstrosities are hung from the wall, and cases show a variety of relics with notes of the adventurers who recovered them""",
+Religion,Driselle,Collection of artists works,"""This section is mostly filled with a poorly organised collection of poems, plays and stories. There is also a large tome focused on tales of the hero Leonhir, which notes that the hero is generally considered to be Driselle's son, but many believe him to be Driselle herself in the form of a man""",
+Religion,Jaharas,Collection donated by adventurers,"""This section contains few written books or scrolls, but is instead an assortment of donated treasures and mementos of a variety of adventure seekers. Stuffed heads of manticores and other monstrosities are hung from the wall, and cases show a variety of relics with notes of the adventurers who recovered them""",
 Geography,Astrovia,Starfall,"""Details of the city of Starfall and its system of canals""",
 Geography,Astrovia,Maps of Astrovia,"""A variety of maps of Astrovia""",
 Geography,Eastern Continent,Undhelia,"""Collected notes and some incomplete maps of the city states of Undhelia to the West of Astrovia, most pre dating the Undhelian Empire""",
@@ -243,6 +243,7 @@ The records only ever mention Demons wielding the Tridavar - did Arkvile ever ma
 Finally, there are legends that the Tridavar brought together would have unmatched power - so why do the records and legends of the First War never mention the Demon's doing so? Were they simply too chaotic to cooperate?""",Yes
 Restricted,Occult,Spellbooks,"""A small collection of wizards spell books. Some of the covers are blood stained""",Yes
 Restricted,Occult,Aberrations,"""A collection of papers clumsily bound together. Scrawled notes on 'Mindflayers', 'Beholders' and 'Aboleths'. Devolves into incoherent ramblings about the 'psionic' powers of these Aberrations.""",Yes
+
 Restricted,A Small Cabinet,A single piece of parchment,"""A list on ancient parchment
 Siluvians - 221 PB 
 Drakewardens - 477 PB 
