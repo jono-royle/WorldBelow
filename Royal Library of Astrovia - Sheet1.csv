@@ -95,6 +95,7 @@ For more info see Religion""",
 History,Postbelluvian,Dragonkin,"""Some accounts of the creation of the Dragonborn, humanoid relatives of dragons, after the First War. The texts do not hold any insight into how the Dragonborn came to be.
 There are also some references to a group called the Drakewardens that were formed and the powers they shared by bonding with Purple and Platinum dragons""",
 History,Postbelluvian,The Goblin Uprising,"""Details on the Goblin Uprising that was defeated in Astrovia in 481 PB with the sundering of the goblin tribes""",
+History,Postbelluvian,The Great Fire,"""Accounts of the damage of the Great Fire of 625 PB that spread throughout Astrovia and Khatany""",
 History,Postbelluvian,Oridian Kingdom,"""Some details on the Dwarven kingdom of Oridian, including some Dwarvish letters sent asking for alliance with Starfall promising friendship and offering gifts""",
 History,Postbelluvian,The Great Lycanthrope War,"""Limited historical accounts of the conflict between the Druids of Inzanzinar and the alliance of Rhulac and Nythlora, and the sudden creation of the animal-hybrid humanoid soldiers and the curse of Lycanthropy by the druids. Most of the documents here concern screening ships coming into Astrovia to prevent the curse reaching these shores. There is little information on how the Druids achieved these feats""",
 History,Postbelluvian,The Undhelian Empire,"""Historical accounts of the city states of Undhelia and the rise of the Undhelian Empire that has slowly subsumed them all""",
@@ -180,6 +181,7 @@ Religion,Vektron,Future sight by The Sky Seer,"""A definitive guidance on horosc
 Religion,Vektron,Horoscopes,"""Vast stacks of horoscope predictions""",
 Religion,Vektron,Star charts,"""Weighty tomes in a side room with an Astrolabe, filled with star measurements and notes on constellations""",
 Religion,Oqular,All seeing Sun,"""An exhaustively detailed tome on the tenets of truth and justice important to a follower of Oqular""",
+Religion,Oqular,Justiciar,"""The accounts of many criminal cases and the precedents Judges set in their rulings""",
 Religion,Scriveen,Lunar cycle worship,"""Some short, dry texts on the lunar cycles and the proper times to observe Scriveen""",
 Religion,Falstriss,Prayer through creation,"""Some religous pamphlets on the importance of creation and crafting, this section is overwhelmed with technical manuals and information on blacksmithing, woodworking, artificing, mining and military theory""",
 Religion,Heonn,Family rituals,"""Comprehensive accounts of marriage, baptism, funeral and harvest ceremonies""",
@@ -243,7 +245,6 @@ The records only ever mention Demons wielding the Tridavar - did Arkvile ever ma
 Finally, there are legends that the Tridavar brought together would have unmatched power - so why do the records and legends of the First War never mention the Demon's doing so? Were they simply too chaotic to cooperate?""",Yes
 Restricted,Occult,Spellbooks,"""A small collection of wizards spell books. Some of the covers are blood stained""",Yes
 Restricted,Occult,Aberrations,"""A collection of papers clumsily bound together. Scrawled notes on 'Mindflayers', 'Beholders' and 'Aboleths'. Devolves into incoherent ramblings about the 'psionic' powers of these Aberrations.""",Yes
-
 Restricted,A Small Cabinet,A single piece of parchment,"""A list on ancient parchment
 Siluvians - 221 PB 
 Drakewardens - 477 PB 
