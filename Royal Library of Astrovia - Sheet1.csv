@@ -94,7 +94,7 @@ Other scrolls here discuss the emerging giants, their battles with dragons and t
 For more info see Religion""",
 History,Postbelluvian,Dragonkin,"""Some accounts of the creation of the Dragonborn, humanoid relatives of dragons, after the First War. The texts do not hold any insight into how the Dragonborn came to be.
 There are also some references to a group called the Drakewardens that were formed and the powers they shared by bonding with Purple and Platinum dragons""",
-History,Postbelluvian,The Goblin Uprising,"""Details on the Goblin Uprising that was defeated in Astrovia in 481 AW with the sundering of the goblin tribes""",
+History,Postbelluvian,The Goblin Uprising,"""Details on the Goblin Uprising that was defeated in Astrovia in 481 PB with the sundering of the goblin tribes""",
 History,Postbelluvian,Oridian Kingdom,"""Some details on the Dwarven kingdom of Oridian, including some Dwarvish letters sent asking for alliance with Starfall promising friendship and offering gifts""",
 History,Postbelluvian,The Great Lycanthrope War,"""Limited historical accounts of the conflict between the Druids of Inzanzinar and the alliance of Rhulac and Nythlora, and the sudden creation of the animal-hybrid humanoid soldiers and the curse of Lycanthropy by the druids. Most of the documents here concern screening ships coming into Astrovia to prevent the curse reaching these shores. There is little information on how the Druids achieved these feats""",
 History,Postbelluvian,The Undhelian Empire,"""Historical accounts of the city states of Undhelia and the rise of the Undhelian Empire that has slowly subsumed them all""",
@@ -220,12 +220,12 @@ Divination
 Locate Creature""",Yes
 Restricted,Scrolls,Locked Box,"""A locked silver chest, that looks like a single scroll could fit inside""",Yes
 Restricted,Starfall,Record of Summits,"""A list of dates and attendees, with no other information
-105 AW - Aravastor, Bywindel-vas of Nythlora, Kominay of Inzanzinar, Brundil envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
-220 AW - Aravastor, Bywindel-vas of Nythlora, Kominay of Inzanzinar, Thofur envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
-477 AW - Aravastor, Methalwinday of Nythlora, Critirion of Inzanzinar, Thofur envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
-623 AW - Aravastor, Methalwinday of Nythlora, Grodulay envoy of the Storm King, Lord Hyveranox, Aquis of the Courts w/ guest
-781 AW - Aravastor, Drothilusia of Nythlora, Gert envoy of the Storm King, Lord Mulisiphor, Sir Vosted C.o.V
-856 AW - Aravastor, Mundara envoy of the Storm King, Lord Mulisiphor, Sir Dramel C.o.V, Aquis of the Courts""",Yes
+105 PB - Aravastor, Bywindel-vas of Nythlora, Kominay of Inzanzinar, Brundil envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
+220 PB - Aravastor, Bywindel-vas of Nythlora, Kominay of Inzanzinar, Thofur envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
+477 PB - Aravastor, Methalwinday of Nythlora, Critirion of Inzanzinar, Thofur envoy of the Storm King, Lord Mulisiphor, Aquis of the Courts
+623 PB - Aravastor, Methalwinday of Nythlora, Grodulay envoy of the Storm King, Lord Hyveranox, Aquis of the Courts w/ guest
+781 PB - Aravastor, Drothilusia of Nythlora, Gert envoy of the Storm King, Lord Mulisiphor, Sir Vosted C.o.V
+856 PB - Aravastor, Mundara envoy of the Storm King, Lord Mulisiphor, Sir Dramel C.o.V, Aquis of the Courts""",Yes
 Restricted,Starfall,The Royal Treasury,"""Documents relating to the Royal Bank and Treasury of Astrovia including blueprints""",Yes
 Restricted,Starfall,The Royal Astronomy Tower,"""Details of the tower. Long descriptions of it's many floors, ballrooms, the observatory and telescopes on the upper floors. Exhaustive details on the kitchens, the furnishing's of the many bedrooms, the baths.
 There are also details of the vault below the tower. The vault door is a massive structure made of mithril and silver and gold and cold iron, blessed with divine magic. The vault has 3 wings, with valuable treasures and powerful magical relics housed within. There are notes about how the Adavan family is reponsible for maintaining the vault, and various historical notes of different members of the family stretching back generations. The most recent note reads: 
@@ -242,9 +242,9 @@ The records only ever mention Demons wielding the Tridavar - did Arkvile ever ma
 Finally, there are legends that the Tridavar brought together would have unmatched power - so why do the records and legends of the First War never mention the Demon's doing so? Were they simply too chaotic to cooperate?""",Yes
 Restricted,Occult,Spellbooks,"""A small collection of wizards spell books. Some of the covers are blood stained""",Yes
 Restricted,A Small Cabinet,A single piece of parchment,"""A list on ancient parchment
-Siluvians - 221 AW
-Drakewardens - 477 AW
-Phoenix - 625 AW
-Oridian Dwarves - 790 AW
-Blood Rose - 856 AW
+Siluvians - 221 PB 
+Drakewardens - 477 PB 
+Phoenix - 625 PB 
+Oridian Dwarves - 790 PB 
+Blood Rose - 856 PB 
 There is a drawing of a spider on the page""",
