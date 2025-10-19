@@ -248,7 +248,14 @@ Finally, there are legends that the Tridavar brought together would have unmatch
 Restricted,Occult,Spellbooks,"""A small collection of wizards spell books. Some of the covers are blood stained""",Yes
 Restricted,Occult,Aberrations,"""A collection of papers clumsily bound together. Scrawled notes on 'Mindflayers', 'Beholders' and 'Aboleths'. Devolves into incoherent ramblings about the 'psionic' powers of these Aberrations.""",Yes
 Restricted,Occult,Roster of the Drakewardens,"""An ancient but expensive looking book, with some remnants of gold leaf stuck to the cover. Seems to be a list of names and dates, with some notes written in Draconic script. The dates stop at 477 PB, though there is more space in the book""",Yes
-Restricted,Occult,Stack of letters,"""A dusty folio containing ancient cracked parchment sheets. Each sheet appears to be a letter addressed to 'His Highness' but is written in a strange language. Each letter is signed in the common tongue though, with 'Children of the Void' and a drawing of three triangles touching at the points""",
+Restricted,Occult,False Gods,"""Historical notes from a variey of sources on various cults or religions that didn't observe the 8 deities
+The Kraken Cults
+The Goblin Gods
+Arhurngar the Deathwalker
+The Ninth Day Doomsayers
+Phorastrium
+Most of the notes detail how the groups were hunted down and wiped out""",Yes
+Restricted,Occult,Stack of letters,"""A dusty folio containing ancient cracked parchment sheets. Each sheet appears to be a letter addressed to 'His Highness' but is written in a strange language. Each letter is signed in the common tongue though, with 'Children of the Void' and a drawing of three triangles touching at the points""",Yes
 Restricted,A Small Cabinet,A single piece of parchment,"""A list on ancient parchment
 Siluvians - 221 PB 
 Drakewardens - 477 PB 
