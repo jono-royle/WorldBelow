@@ -1,0 +1,47 @@
+## Drake Companion
+
+As an **action**, you can magically summon the drake that is bound to you. It appears in an unoccupied space of your choice within 30 feet of you.
+
+The drake is friendly to you and your companions, and it obeys your commands. Whenever you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake, such as its color, its scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.
+
+In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a **bonus action** on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge.
+
+The drake remains until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.
+
+Once you summon the drake, you can’t do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.
+
+:
+
+**Drake Mount**. The drake grows to Medium size. Reflecting your special bond, you can use the drake as a mount if your size is Medium or smaller. While you are riding your drake, it can’t use the flying speed of this feature.
+:
+
+**Resistance**. You gain resistance to the damage type chosen for the drake’s Draconic Essence.
+
+<img 
+  src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6e702dc8-c3cf-4d70-8d94-4098f0f1afca/dctm7nc-6e7a2d5d-916c-4a70-af95-8098ee489355.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlNzAyZGM4LWMzY2YtNGQ3MC04ZDk0LTQwOThmMGYxYWZjYVwvZGN0bTduYy02ZTdhMmQ1ZC05MTZjLTRhNzAtYWY5NS04MDk4ZWU0ODkzNTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.38NohqU-J5wxHaiqS97IK4jv2tMfSMDJhS6UTpj-sH8' 
+  style='width:325px' />
+
+___
+> ## Drake Companion
+>*Medium dragon*
+> ___
+> - **Armor Class** 17
+> - **Hit Points** 40 (7d10 Hit Dice)
+> - **Speed** 40ft, 40ft flying
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|15 (+2)|8 (-1)|14 (+2)|8 (-1)|
+>___
+> - **Saving Throws** Str +3, Dex +4, Con +2, Int -1, Wis +5, Cha -1
+> - **Damage Immunities** determined by the drake’s Draconic Essence trait
+> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Languages** Draconic
+> - **Draconic Essence.** When you summon the drake, choose a damage type: acid, cold, fire, lightning, or poison. The chosen type determines the drake’s damage immunity and the damage of its Infused Strikes trait.
+> ___
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. Hit: 1d6+3 piercing damage + 1d6 Draconic Essence damage
+> ### Reactions
+> ***Infused Strikes.*** When another creature within 30 feet of the drake that it can see hits a target with a weapon attack, the drake infuses the strike with its essence, causing the target to take an extra 1d6 damage of the type determined by its Draconic Essence.
+
+
